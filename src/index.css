@@ -1,0 +1,53 @@
+
+body {
+   /* background-color: rgb(108, 212, 212); */
+    background-image: url(/Img/bg_picture.jpg);
+    background-position: center top;
+}
+
+.c_b_bg {
+    background-color: rgb(235, 238, 238);
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+}
+
+.detail_bg {
+    color: black;
+    font-weight: 700;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.detail_bg:hover {
+    background-color: black;
+}
+
+.msje {
+    font-weight: 700;
+    font-family: Tahoma;
+    font-size: 18px;
+    text-align: center;
+}
+
+figcaption {
+    font-weight: 700;
+    color: black;
+}
+
+.img_nav {
+    margin-right: 10px;
+}
+
+.item-width {
+    width: 50px;
+}
+
+.cb_size {
+    max-width: 40%;
+}
+
+.cart-right > img {
+    margin: right;
+}
