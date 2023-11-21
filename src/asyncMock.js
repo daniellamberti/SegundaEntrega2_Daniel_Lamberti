@@ -8,7 +8,7 @@ const products = [
   { id: "7", name: "Yamaha RII Electronica", img: "/Img/bat_elect_yamaha.jpg", price: 870, category: "baterias", description: "Bat Elect Yamaha", stock:3 },
   { id: "8", name: "Gretsch 1983", img: "/Img/bateria_gretsch.jpg", price: 1400, category: "baterias", description: "Bat Gretsch Orig", stock: 3 },
   { id: "9", name: "Xilofon", img: "/Img/xilofon.jpg", price: 1150, category: "percusion", description: "Xilofon 5 oct", stock: 2 },
-  { id: "10", name: "Bongo", img: "/Img/bateria_pearl.jpg", price: 600, category: "percusion", description: "Bongo americano", stock: 6 },
+  { id: "10", name: "Bongo", img: "/Img/bongo.jpg", price: 600, category: "percusion", description: "Bongo americano", stock: 6 },
 ];
 
   export const getProducts = () => {
